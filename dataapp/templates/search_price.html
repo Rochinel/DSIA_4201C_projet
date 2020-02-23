@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <title>Findcar {% block title %}{% endblock %}</title>
+    <link rel="shortcut icon" href="{{url_for('static', filename='img/favicon-32.png')}}"/>
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='open-iconic/font/css/open-iconic-bootstrap.css') }}" rel="stylesheet">
+    {% endblock %}
+</head>
+<body>
+<h1>lacentrale_voitures</h1>
+<hr/>
+<h5>The results you are looking for are as follows:</h5>
+<table class="mongodb-table">
+    <thead>
+    <tr>
+        <th>
+            Year
+        </th>
+                <th>
+            Brand
+        </th>
+        <th>
+            Energies
+        </th>
+        <th>
+            Model
+        </th>
+        <th>
+            Boite_de_vitesse
+        </th>
+        <th>
+            Color
+        </th>
+
+        <th>
+            Lien
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for car in cars %}
+        <tr>
+        <td data-th="Year">
+            {{ car.annee }}
+        </td>
+            <td data-th="Brand">
+            {{ car.marque }}
+        </td>
+        <td data-th="Energies">
+            {{ car.energie }}
+        </td>
+        <td data-th="Model">
+            {{ car.model }}
+        </td>
+        <td data-th="Boite_de_vitesse">
+            {{ car.boite_de_vitesse }}
+        </td>
+        <td data-th=Color">
+            {{ car.couleur }}
+        </td>
+        <td data-th="Line">
+            <a class="'url" href="{{ car.lien }}">{{ car.lien }}</a></td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</body>
+</html>
