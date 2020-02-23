@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+
+{% block title %}- {{ title }}{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div style="width: 100%; margin: 10px auto 50px auto; text-align: justify">
+        	<a href="{{ url_for('index') }}"><h1 style="text-align: center;">Findcar</h1></a>
+
+        	<!--Search bar-->
+			<div class="container">
+			<div class="row">
+			<div class="col-lg-3"></div>
+			<div class="col-lg-6">
+			<form class="navbar-form" method="post" action="{{ url_for('search') }}" role="search">
+			<div class="input-group">
+
+
+
+			<input type="text" placeholder="Find the brand..." class="form-control">
+
+			<span class="input-group-btn">
+			<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+			Filter
+			<span class="caret"></span>
+			</button>
+			<ul class="dropdown-menu" role="menu">
+			<li><a href="#">AUDI</a></li>
+			<li><a href="#">ABARTH</a></li>
+			<li><a href="#">BWM</a></li>
+			</ul>
+			</span>
+
+
+			<span class="input-group-btn">
+			<button class="btn btn-primary" type="button"><span class="oi oi-star" title="star" aria-hidden="true"></span></button>
+			</span>
+			</div>
+			</form>
+			</div>
+
+			<div class="col-lg-3"></div>
+
+			</div>
+			</div>
+			<!--END Search bar-->
+
+                <div class="container">
+                    <div class="row">
+
+                      <div class="col-s-3 mt-5 ml-3 mr-3 mb-2 ">
+                        <div class="card border-primary">
+
+                          <form action = "/title" method = "POST">
+                            <input type="hidden" name="nm" value="{{ marque }}" />
+         <button class="btn btn-primary" type = 'submit' value = 'Login'/><span class="oi oi-heart" title="heart" aria-hidden="true"></span> </button>
+      </form>
+
+
+                        <img class="card-img-top rounded mt-2 mx-auto d-block"  style="max-width: 70%; height: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTc5gHyDJuWvgii7lDOB3elbLk4Cr_fBi0oqBeB_GkcHvHMm08E" alt="">
+                        <div class="card-body mx-auto">
+                          <h2>{{ marque }}</h2>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                          <li class="list-group-item">{{annee}}</li>
+                          <li class="list-group-item">km_compteur: {{km_compteur}}</li>
+                          <li class="list-group-item">Energie: {{energie}}</li>
+                          <li class="list-group-item">boite_de_vitesse: {{boite_de_vitesse}}</li>
+                          <li class="list-group-item">couleur: {{couleur}}</li>
+                          <li class="list-group-item">nombre de porte: {{nb_porte}}</li>
+                          <li class="list-group-item">model: {{model}}</li>
+
+                          <li class="list-group-item"><img style="max-width: 7%; height: auto;" src="{{url_for('static', filename='img/star-gold-256.png')}}" alt="">    {{price}}/10</li>
+                          <li class="list-group-item">{{lien}}</li>
+                        </ul>
+                      </div>
+                      </div>
+
+                      <div class="col-lg-5 mt-5 mr-2">
+                        <div class="d-inline-flex justify-content-center">
+                          <p ><b>Storyline:  </b>{{ storyline }}</p>
+                        </div>
+                      </div>
+
+
+
+
+                      <div class="card mt-5" style="width: 15rem;">
+                        <div class="card-header">
+                          Recommandations
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            {% for r in l_rec%}
+                            {% if r["marque"] %}
+
+                          <li class="list-group-item">
+                            <img style="max-width: 10%; height: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTc5gHyDJuWvgii7lDOB3elbLk4Cr_fBi0oqBeB_GkcHvHMm08E" alt="">
+                            <a href="{{ url_for('title', title=r["price"])}}">{{ r["marque"] }}</a>
+                          </li>
+
+                            {% endif %}
+                            {% endfor %}
+                        </ul>
+                      </div>
+
+                    </div>
+                </div>
+        </div>
+    </div>
+{% endblock %}
