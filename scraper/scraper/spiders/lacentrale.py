@@ -2,6 +2,7 @@
 import scrapy
 from scrapy import Request
 from ..items import CarItem
+#from ..log_config import loggerde
 
 
 class LacentraleSpider(scrapy.Spider):
