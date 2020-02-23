@@ -18,12 +18,12 @@ This project is for informational and educational purposes, do not use it for bu
 - [x] MongoDB database
 - [x] Flask application
     - [x] basic app with MongoDB (dataapp)
-	- [x] app with Elasticsearch and MongoDB (centraleapp)
+	- [] app with Elasticsearch and MongoDB (centraleapp)
 	- on a fini la pluspart des codes de app(centrale) ,mais il y a des problems de configuration
 -  Docker
 	- [x] docker-compose.yml
 	- [x] Dockerfile
-	- [] run mongodb inside Docker :reussi
+	- [x] run mongodb inside Docker :reussi
 	- [] run elasticsearch inside Docker : reussi * mais pas reussi à intégrer dans application
 
 
