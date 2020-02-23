@@ -1,0 +1,473 @@
+annee,boite_de_vitesse,couleur,energie,km_compteur,lien,marque,model,nb_porte,price,title_info,version
+2010,mécanique,orange verni,Essence,23 730 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101684369.html,KTM,X-BOW,2,135600€,KTM X-BOW,2.0 TFSI 240 SUPERLIGHT
+2014,mécanique,noir verni,Essence,414 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101136748.html,KTM,X-BOW,2,87200€,KTM X-BOW,2.0 TFSI 300 R
+2010,mécanique,blanc verni,Essence,24 856 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101691077.html,KTM,X-BOW,2,96250€,KTM X-BOW,2.0 TFSI 240
+2019,automatique,jaune mat,Essence,28 670 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101686184.html,LAMBORGHINI,URUS,5,329270€,LAMBORGHINI URUS,4.0 V8 650
+2020,automatique,BLANC,Electrique,61 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106090094.html,JAC,IEV,5,39510€,JAC IEV,IEV7
+1979,automatique,bleu marine metal,Essence,113 000 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101675717.html,JENSEN,INTERCEPTOR,3,79090€,JENSEN INTERCEPTOR MK III,MK III 7.2 V8 284
+2003,automatique,argent metal,Diesel,16 726 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101690972.html,JDM,SIMPA,3,6080€,JDM SIMPA ALBIZIA,VOITURETTE CONFORT
+1990,automatique,BORDEAUX,Essence,80 370 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105726219.html,JAGUAR,XJS,2,12520€,JAGUAR XJS CABRIOLET,CABRIOLET 5.3 V12 BVA
+2006,mécanique,bleu metal,Bicarburation essence GPL,76 083 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101690595.html,LADA,NIVA,3,6140€,LADA NIVA,1.7 NEW LOOK GPL
+2017,automatique,NOIR,Diesel,152 252 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104939311.html,JAGUAR,F-PACE,5,35390€,JAGUAR F-PACE,V6 3.0 D 300 PORTFOLIO 4X4 BVA8
+1969,mécanique,rouge verni,Essence,40 625 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101632511.html,INNOCENTI,MINI,2,24370€,INNOCENTI MINI,1.3 COOPER
+2017,automatique,gris,Diesel,19 681 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105546701.html,INFINITI,Q30,5,27470€,INFINITI Q30,1.5D 109 BUSINESS DCT7
+2016,automatique,blanc verni,Essence,35 400 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101247849.html,LAMBORGHINI,AVENTADOR,2,358800€,LAMBORGHINI AVENTADOR ROADSTER,ROADSTER 6.5 V12 LP 700-4
+1972,mécanique,vert foncé metal,Essence,104 880 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101687352.html,INNOCENTI,MINI,2,19950€,INNOCENTI MINI,1.0
+2015,mécanique,blanc verni,Essence,29 263 Km,https://www.lacentrale.fr/utilitaire-occasion-annonce-66101118977.html,LADA,NIVA,3,13500€,LADA NIVA SOCIETE,1.7 ESSENCE UTILITAIRE 2PL
+2021,mécanique,Vert Monza,Essence,6 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106090296.html,ABARTH,500,4,39880€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 595 ANNIVERSARIO
+2020,mécanique,gris anthracite metal,Essence,12 Km,https://www.lacentrale.fr/utilitaire-occasion-annonce-87101620206.html,LADA,4X4,3,14430€,LADA 4X4 SOCIETE,1.7 TSARINA 4WD
+2016,automatique,rouge,Essence,10 530 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105105966.html,LAMBORGHINI,AVENTADOR,2,315780€,LAMBORGHINI AVENTADOR,COUPE 6.5 V12 LP 750-4 SV
+2018,automatique,blanc verni,Essence,28 620 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101517057.html,LAMBORGHINI,HURACAN,2,189000€,LAMBORGHINI HURACAN,LP 580-2
+2020,automatique,GRIS CARPATHIAN,Diesel,6 670 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106079734.html,JAGUAR,XF,5,86130€,JAGUAR XF 2,II 3.0D V6 300 R-SPORT AUTO
+2019,automatique,Bleu,Diesel,24 640 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106098604.html,JAGUAR,XE,5,29570€,JAGUAR XE,2.0D 180 PRESTIGE LIMITED AUTO
+2020,automatique,noir,Diesel,8 700 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106003211.html,JAGUAR,F-PACE,5,66000€,JAGUAR F-PACE,2.0 D 180 PRESTIGE 4X4 BVA8
+2020,automatique,CORRIS GREY,Diesel,21 716 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106111606.html,JAGUAR,E-PACE,5,42400€,JAGUAR E-PACE,D150 AWD S BVA
+2019,automatique,GRIS CLAIR METAL,Diesel,10 925 Km,https://www.lacentrale.fr/utilitaire-occasion-annonce-69104289526.html,ISUZU,D-MAX,5,40810€,ISUZU D-MAX,1.9 DDI 164CH CREW QUASAR A/C 4X4 BVA
+1978,automatique,BLEU,Essence,138 185 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105625790.html,JAGUAR,XJ,4,17650€,JAGUAR XJ 2 C,4.2 C
+2019,automatique,SANTORINI BLACK,Diesel,6 070 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105667848.html,JAGUAR,F-PACE,5,60130€,JAGUAR F-PACE,2.0 D 180 R-SPORT 4X4 BVA8
+2020,automatique,NOIR SANTORINI,Electrique,22 375 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105894356.html,JAGUAR,I-PACE,5,99870€,JAGUAR I-PACE,EV400 AWD HSE
+2020,mécanique,vert verni,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101645037.html,ABARTH,500,2,32470€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2020,mécanique,gris,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105832396.html,ABARTH,500,3,22980€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2020,mécanique,rouge,Essence,2 067 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105653446.html,ABARTH,500,3,34960€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 595 ESSEESSE
+2018,mécanique,bleu metal,Essence,28 545 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101670359.html,ABARTH,500,3,21970€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2014,mécanique,rouge,Essence,77 577 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106071983.html,ABARTH,500,3,12410€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 135
+2018,automatique,blanc,Essence,4 114 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106040334.html,LAMBORGHINI,AVENTADOR,2,365190€,LAMBORGHINI AVENTADOR,COUPE 6.5 V12 740 S
+2015,automatique,argent metal,Essence,104 304 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101674257.html,JAGUAR,F-TYPE,3,49070€,JAGUAR F-TYPE COUPE,COUPE 3.0 V6 AUTO
+1966,mécanique,BORDEAUX,Essence,119 040 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105618751.html,JAGUAR,S-TYPE,4,12380€,JAGUAR S-TYPE 3.8,3.8 223
+2016,automatique,GRIS,Diesel,86 132 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105826348.html,JAGUAR,XE,4,26430€,JAGUAR XE,2.0D 180 PORTFOLIO AUTO
+2021,automatique,noir metal,Diesel,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101663211.html,JAGUAR,F-PACE,5,59880€,JAGUAR F-PACE,2.0 D 180 R-SPORT 4X4 BVA8
+2008,automatique,Bleu Foncé Métal,Essence,65 560 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105227717.html,JAGUAR,XK8,4,39490€,JAGUAR XK8 COUPE,COUPE 4.2 BVA
+2020,automatique,NOIR,Diesel,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105980965.html,JAGUAR,F-PACE,5,53060€,JAGUAR F-PACE,2.0 D 180 10CV R-SPORT 4X4 BVA8
+2018,mécanique,Gris métal,Diesel,47 522 Km,https://www.lacentrale.fr/utilitaire-occasion-annonce-69105816925.html,ISUZU,D-MAX,24 mois,26600€,ISUZU D-MAX,1.9 DDI 164CH SPACE PLANET A/C 4X4
+2020,mécanique,ROUGE,Essence,61 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105796136.html,ABARTH,500,2,31210€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2019,automatique,gris metal,Essence,108 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101309199.html,ABARTH,500,3,29700€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2018,automatique,vert metal,Essence,12 947 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101679286.html,LAMBORGHINI,HURACAN,2,268680€,LAMBORGHINI HURACAN,LP 640-4 PERFORMANTE
+2019,automatique,Noir Métal,Electrique,5 950 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105414815.html,JAGUAR,I-PACE,5,97220€,JAGUAR I-PACE,EV400 AWD HSE
+2019,automatique,Noir,Diesel,22 653 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105536715.html,JAGUAR,XJ,5,71700€,JAGUAR XJ 2,II 3.0 DIESEL PORTFOLIO
+2018,automatique,AMMONITE GREY,Diesel,39 375 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105894357.html,JAGUAR,XF,5,49870€,JAGUAR XF 2 SPORTBRAKE,II (2) SPORTBRAKE 2.0D 240 R-SPORT AWD BVA
+2017,mécanique,GRIS,Diesel,41 413 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105991192.html,JAGUAR,XE,4,25050€,JAGUAR XE,2.0D 180 9CV PRESTIGE
+2021,mécanique,gris,Essence,6 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106090297.html,ABARTH,500,4,37930€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 595 ESSEESSE
+2006,automatique,vert,Essence,130 075 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105944122.html,JAGUAR,XJ,4,27700€,JAGUAR XJ,4.2 V8 SURAL SUPER BVA
+2017,automatique,blanc,Diesel,66 420 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106074351.html,JAGUAR,F-PACE,5,39850€,JAGUAR F-PACE,2.0 D 180 R-SPORT 4X4 BVA8
+2018,automatique,BLANC,Essence,31 204 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105980111.html,JAGUAR,F-TYPE,3,75280€,JAGUAR F-TYPE COUPE,COUPE 3.0 V6 S BVA8
+2016,automatique,GRIS,Diesel,96 992 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105318145.html,JAGUAR,XE,4,22060€,JAGUAR XE,2.0D 180 PRESTIGE AUTO
+2019,automatique,NOIR,Diesel,51 607 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106069618.html,JAGUAR,XF,4,42220€,JAGUAR XF 2,II 3.0D V6 300 R-SPORT AUTO
+2015,automatique,GRIS F,Diesel,68 524 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105809433.html,JAGUAR,XJ,4,39370€,JAGUAR XJ 2,II 3.0 V6 D S PORTFOLIO EMPT LONG BVA8
+2019,automatique,Noir,Diesel,7 553 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105536716.html,JAGUAR,F-PACE,5,78080€,JAGUAR F-PACE,V6 3.0 D 300 PORTFOLIO 4X4 BVA8
+2017,automatique,blanc,Diesel,104 325 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105976994.html,JAGUAR,XE,4,23430€,JAGUAR XE,2.0D 180 9CV PRESTIGE AUTO
+2016,automatique,beige metal,Diesel,78 125 Km,https://www.lacentrale.fr/utilitaire-occasion-annonce-87101621381.html,ISUZU,D-MAX,4,29930€,ISUZU D-MAX 2,II DOUBLE CABINE 4X4 2.5 QUASAR AUTO
+2016,mécanique,BLANC,Essence,26 230 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105349088.html,ABARTH,500,3,18280€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 160 595 TURISMO
+2020,mécanique,gris clair metal,Essence,1 635 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101533060.html,ABARTH,500,3,29740€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE
+2011,mécanique,gris verni,Essence,50 486 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101596755.html,ABARTH,500,2,14410€,ABARTH 500 C (2E GENERATION),C 1.4 T-JET 135
+2020,automatique,vert metal,Essence,111 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101391081.html,ABARTH,500,3,29950€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2019,mécanique,Col. pastel extra Rouge Abarth,Essence,8 938 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106050181.html,ABARTH,500,4,21780€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA
+2021,mécanique,blanc,Diesel,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106016057.html,JAGUAR,F-PACE,5,37380€,JAGUAR F-PACE,2.0 D 163 PURE
+2017,automatique,noir verni,Diesel,90 100 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101131683.html,JAGUAR,F-PACE,5,36990€,JAGUAR F-PACE,2.0 D 180 BLACK LIMITED BVA
+2020,automatique,gris foncé metal,Diesel,87 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101619686.html,JAGUAR,E-PACE,5,59710€,JAGUAR E-PACE,D150 AWD CHEQUERED FLAG BVA
+2018,automatique,gris clair metal,Diesel,5 350 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101117215.html,JAGUAR,F-PACE,5,66120€,JAGUAR F-PACE,2.0 D 180 10CV R-SPORT 4X4 BVA8
+2020,automatique,blanc,Diesel,22 680 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106117538.html,JAGUAR,E-PACE,5,46770€,JAGUAR E-PACE,D180 AWD S BVA
+2017,automatique,Gris Foncé Métal,Diesel,28 424 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105920027.html,JAGUAR,XF,5,41610€,JAGUAR XF 2,II 2.0D 180 R-SPORT AWD AUTO
+2015,automatique,gris clair metal,Diesel,44 460 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101111909.html,JAGUAR,XF,4,34080€,JAGUAR XF 2,II 2.0D 180 PREMIERE EDITION R-SPORT AUTO
+2016,automatique,gris clair metal,Diesel,64 093 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101123263.html,JAGUAR,F-PACE,5,38940€,JAGUAR F-PACE,2.0 D 180 PRESTIGE 4X4 BVA8
+2017,automatique,blanc metal,Diesel,12 760 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101126779.html,JAGUAR,E-PACE,5,53350€,JAGUAR E-PACE,D180 AWD R-DYNAMIC HSE BVA
+2009,automatique,marron metal,Diesel,173 342 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101136903.html,JAGUAR,XF,4,15280€,JAGUAR XF,3.0 V6 D 211 LIMITED EDITION
+2018,automatique,gris clair metal,Diesel,58 882 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101670492.html,JAGUAR,F-PACE,5,47080€,JAGUAR F-PACE,2.0 D 180 4X4 PRESTIGE LIMITED BVA
+2009,automatique,GRIS,Essence,143 640 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106111352.html,JAGUAR,XF,4,14020€,JAGUAR XF,3.0 V6 240 LUXE PREMIUM
+2015,automatique,noir metal,Diesel,96 868 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101620285.html,JAGUAR,F-PACE,5,53050€,JAGUAR F-PACE,V6 3.0 D 300 S 4X4 BVA8
+2016,automatique,blanc verni,Diesel,79 073 Km,https://www.lacentrale.fr/auto-occasion-annonce-66100899613.html,JAGUAR,F-PACE,5,35840€,JAGUAR F-PACE,2.0 D 180 R-SPORT 4X4 BVA8
+2017,mécanique,Bleu metal,Essence,11 733 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106036093.html,ABARTH,500,4,22020€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA
+2020,mécanique,GRIS,Essence,2 340 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105778640.html,ABARTH,500,3,39580€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 595 ESSEESSE
+2017,automatique,NOIR,Diesel,103 680 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105820943.html,JAGUAR,XE,4,21480€,JAGUAR XE,2.0D 180 9CV PORTFOLIO AUTO
+2020,automatique,CARPATHIAN GREY,Diesel,3 390 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105391393.html,JAGUAR,XJ,5,109320€,JAGUAR XJ 2,II 3.0 DIESEL PORTFOLIO
+2020,automatique,SILICON SILVER,Diesel,10 716 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105391394.html,JAGUAR,XF,5,62580€,JAGUAR XF 2,II 3.0D V6 300 R-SPORT AUTO
+2019,automatique,ULTRA BLUE,Essence,4 872 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105391396.html,JAGUAR,F-TYPE,2,121680€,JAGUAR F-TYPE COUPE,(2) COUPE 3.0 V6 380 4WD R-DYNAMIC AUTO
+2020,automatique,SILICON SILVER,Diesel,16 650 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105391391.html,JAGUAR,E-PACE,5,63150€,JAGUAR E-PACE,D240 AWD R-DYNAMIC S BVA
+2020,automatique,noir,Diesel,9 813 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106017394.html,JAGUAR,E-PACE,5,72370€,JAGUAR E-PACE,D240 AWD R-DYNAMIC HSE BVA
+1958,mécanique,vert foncé verni,Essence,22 500 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101636290.html,JAGUAR,XK,2,143620€,JAGUAR XK ROADSTER,ROADSTER
+2018,automatique,noir metal,Diesel,7 420 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101659245.html,JAGUAR,XE,4,31780€,JAGUAR XE,2.0D 180 R-SPORT BVA AWD
+2014,automatique,noir,Diesel,108 501 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105185031.html,JAGUAR,XJ,5,35280€,JAGUAR XJ 2,II 3.0 V6 D S LUXE PREMIUM BVA8
+2019,automatique,NOIR SANTORINI,Electrique,8 690 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106038400.html,JAGUAR,I-PACE,5,76780€,JAGUAR I-PACE,EV400 AWD HSE
+2020,automatique,GRIS CORRIS,Diesel,59 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105877190.html,JAGUAR,E-PACE,9 CV,56970€,JAGUAR E-PACE,2.0 150CH R-DYNAMIC CHEQUERED AWD BVA9 FLAG
+2019,automatique,GRIS C,Diesel,38 872 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105849515.html,JAGUAR,XF,4,35980€,JAGUAR XF 2,II 2.0D 180 9CV R-SPORT AUTO
+2020,automatique,Noir métal,Essence,564 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105920028.html,JAGUAR,F-TYPE,2,84980€,JAGUAR F-TYPE COUPE,(2) COUPE 2.0 300 AUTO R-DYNAMIC
+2010,automatique,noir metal,Essence,85 840 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101661502.html,JAGUAR,XKR,2,40480€,JAGUAR XKR 2 CABRIOLET,II (2) CABRIOLET 5.0 V8 510 BVA
+2009,mécanique,NOIR,Diesel,223 014 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106122378.html,JAGUAR,X-TYPE,4,7940€,JAGUAR X-TYPE,2.2 D EXECUTIVE
+2017,automatique,MARRON,Diesel,115 362 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105796025.html,JAGUAR,F-PACE,5,39760€,JAGUAR F-PACE,2.0 D 180 PORTFOLIO 4X4 BVA8
+2020,automatique,Gris Corris,Diesel,27 035 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106026022.html,JAGUAR,E-PACE,5,53070€,JAGUAR E-PACE,D150 AWD S BVA
+2018,automatique,BLANC,Diesel,22 572 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106036130.html,JAGUAR,F-PACE,5,48490€,JAGUAR F-PACE,2.0 D 240 4X4 R-SPORT BVA
+2019,automatique,BLEU CAESIUM,Diesel,20 223 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106038397.html,JAGUAR,E-PACE,5,46860€,JAGUAR E-PACE,D240 AWD R-DYNAMIC S BVA
+2016,automatique,GRIS,Diesel,42 765 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105503891.html,JAGUAR,XF,5,36460€,JAGUAR XF,3.0D V6 S 275 PORTFOLIO
+2021,automatique,blanc,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105542446.html,JAGUAR,F-PACE,Européen,49250€,JAGUAR F-PACE,BVA 2.0 250 PRESTIGE 4X4 BVA
+2017,automatique,Gris clair,Diesel,58 687 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106059251.html,JAGUAR,F-PACE,5,48490€,JAGUAR F-PACE,V6 3.0 D 300 R-SPORT 4X4 BVA8
+2018,automatique,GRIS CORRIS,Diesel,14 007 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106038399.html,JAGUAR,XF,5,52860€,JAGUAR XF 2 SPORTBRAKE,II (2) SPORTBRAKE 2.0D 240 R-SPORT AWD BVA
+2020,automatique,Noir Métal,Diesel,8 500 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105414820.html,JAGUAR,XF,5,56120€,JAGUAR XF 2,II 2.0D 180 9CV R-SPORT AUTO
+2019,automatique,GRIS F,Diesel,25 916 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105480822.html,JAGUAR,F-PACE,5,58140€,JAGUAR F-PACE,2.0 D 180 PORTFOLIO 4X4 BVA8
+2020,mécanique,GRIS F,Essence,14 504 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105087018.html,ABARTH,500,4,23490€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO 16V T-JET 165 595 TURISMO
+2020,automatique,NOIRE,Electrique,3 936 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105918251.html,JAGUAR,I-PACE,5,98270€,JAGUAR I-PACE,EV400 AWD FIRST EDITION
+2018,automatique,NARVIK BLACK,Diesel,40 428 Km,https://www.lacentrale.fr/auto-occasion-annonce-69103802711.html,JAGUAR,XE,5,39340€,JAGUAR XE,2.0D 180 R-SPORT BVA
+2017,mécanique,blanc opaque (verni sans reflet),Essence,46 585 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101129430.html,ABARTH,500,3,20320€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2014,automatique,noir,Diesel,123 308 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106089058.html,JAGUAR,XF,5,20750€,JAGUAR XF,(2) 2.2 D 200 LUXE PREMIUM
+2020,mécanique,Gris,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106106260.html,ABARTH,500,4,23430€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2016,automatique,noir,Diesel,110 330 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105859950.html,JAGUAR,XJ,4,42360€,JAGUAR XJ 2,II 3.0 V6 D S PORTFOLIO BVA8
+2021,automatique,noir metal,Essence,13 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101667727.html,ABARTH,500,2,31860€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2020,automatique,Noir Métal,Diesel,11 800 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105414813.html,JAGUAR,XE,5,52740€,JAGUAR XE,2.0D 180 LANDMARK AUTO
+2017,automatique,VERT,Diesel,88 926 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105523894.html,JAGUAR,XE,4,24870€,JAGUAR XE,2.0D 180 9CV PRESTIGE AUTO
+2017,automatique,noir metal,Essence,12 305 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101608035.html,JAGUAR,F-TYPE,2,69000€,JAGUAR F-TYPE,CABRIOLET 3.0 V6 S AWD BVA8
+2018,automatique,gris foncé metal,Diesel,32 314 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101583709.html,JAGUAR,F-PACE,5,44400€,JAGUAR F-PACE,2.0 D 180 R-SPORT 4X4 BVA8
+2020,automatique,GRIS CORRIS,Electrique,8 800 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104780039.html,JAGUAR,I-PACE,5,92290€,JAGUAR I-PACE,EV400 AWD SE
+2017,automatique,rouge metal,Essence,36 079 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101660172.html,ABARTH,500,3,19510€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2020,mécanique,Noir,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106102887.html,ABARTH,500,4,24360€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO 16V T-JET 165 595 TURISMO
+2020,mécanique,Gris,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105626975.html,ABARTH,500,4,23380€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 145 595
+2019,automatique,VERT F,Essence,13 077 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105998445.html,JAGUAR,F-TYPE,2,61240€,JAGUAR F-TYPE COUPE,(2) COUPE 2.0 300 BVA8
+2020,automatique,GRIS,Diesel,11 484 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106084060.html,JAGUAR,XE,4,52080€,JAGUAR XE,(2) D180 S R-DYNAMIC AUTO
+2020,mécanique,INDUS SILVER,Diesel,24 354 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106033856.html,JAGUAR,E-PACE,5,61370€,JAGUAR E-PACE,D180 AWD R-DYNAMIC SE
+2001,automatique,gris clair metal,Essence,123 795 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101541308.html,JAGUAR,XKR,2,24660€,JAGUAR XKR COUPE,COUPE 4.0 BVA
+2018,automatique,gris metal,Diesel,47 763 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101660437.html,JAGUAR,XF,5,42570€,JAGUAR XF 2 SPORTBRAKE,II (2) SPORTBRAKE 2.0D 240 PRESTIGE AWD BVA
+2020,automatique,GRIS CARPATHIAN,Diesel,2 240 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105995541.html,JAGUAR,XE,5,59240€,JAGUAR XE,(2) D180 HSE R-DYNAMIC AUTO
+2019,automatique,gris carpathian,Diesel,15 476 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105579399.html,JAGUAR,XJ,5,63490€,JAGUAR XJ 2,II 3.0 DIESEL PORTFOLIO
+1998,automatique,BLEU C,Essence,199 656 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106091097.html,JAGUAR,XJ6,4,7080€,JAGUAR XJ6 (2E GENERATION),(2) SOVEREIGN 4.0 BVA
+2020,automatique,noir metal,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101103663.html,ABARTH,500,2,34960€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2019,automatique,noir metal,Essence,30 240 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101132970.html,ABARTH,500,2,24640€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2020,mécanique,VERT ADRENALINE,Essence,55 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105778672.html,ABARTH,500,4,26390€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2017,mécanique,blanc nacre,Essence,31 350 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101131943.html,ABARTH,500,2,22680€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2012,mécanique,blanc metal,Essence,72 450 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101674542.html,ABARTH,500,2,14360€,ABARTH 500 C (2E GENERATION),II C 1.4 T-JET 135
+2014,automatique,bordeaux nacre,Essence,35 088 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101683490.html,ABARTH,500,2,33910€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 180 595 EDIZIONE MASERATI
+2020,mécanique,NOIR,Essence,1 713 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105793923.html,ABARTH,500,3,27580€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2020,mécanique,gris pista,Essence,4 770 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105458250.html,ABARTH,500,4,20650€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+1970,mécanique,Jaune,Essence,4 558 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105079389.html,JAGUAR,TYPE,3 mois,118190€,JAGUAR TYPE E CABRIOLET,CABRIOLET
+2020,automatique,GRIS CARPATHIAN,Diesel,5 000 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105894355.html,JAGUAR,XE,5,56540€,JAGUAR XE,(2) D180 SE R-DYNAMIC AUTO
+2017,automatique,noir metal,Diesel,33 300 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101615255.html,JAGUAR,F-PACE,5,65490€,JAGUAR F-PACE,V6 3L D 300 4X4 PRESTIGE LIMITED BVA8
+2020,automatique,BLANC FUJI,Essence,53 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106079723.html,JAGUAR,F-TYPE,2,104890€,JAGUAR F-TYPE COUPE,(2) COUPE 3.0 V6 380 4WD CHEQUERED FLAG AUTO
+2018,automatique,STORM GREY,Diesel,39 324 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105826747.html,JAGUAR,F-PACE,5,63680€,JAGUAR F-PACE,V6 3.0 D 300 R-SPORT 4X4 BVA8
+2016,mécanique,gris foncé,Diesel,67 505 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105561590.html,JAGUAR,XE,5,20980€,JAGUAR XE,2.0D E-PERFORMANCE 163 R-SPORT
+2020,automatique,CAESIUM BLUE,Diesel,8 100 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105574487.html,JAGUAR,F-PACE,5,75490€,JAGUAR F-PACE,V6 3.0 D 300 19CV R-SPORT 4X4 BVA8
+2020,automatique,Gris Corris,Electrique,6 720 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105987744.html,JAGUAR,I-PACE,5,84270€,JAGUAR I-PACE,EV400 AWD FIRST EDITION
+2013,automatique,NOIR SANTORINI,Essence,87 967 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105472083.html,JAGUAR,XKR-S,12 mois,72470€,JAGUAR XKR-S,II 5.0 550CH BVA XKR XKR-S
+2020,mécanique,GRIS PISTA,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106011887.html,ABARTH,500,4,31190€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2017,automatique,noir,Diesel,31 769 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105351592.html,JAGUAR,XF,5,37340€,JAGUAR XF 2,II 2.0D 180 9CV R-SPORT AUTO
+1958,mécanique,bordeaux verni,Essence,20 475 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101490782.html,JAGUAR,XK,2,146890€,JAGUAR XK CABRIOLET,CABRIOLET 140
+2019,mécanique,BLEU/GRIS,Essence,3 763 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105809959.html,ABARTH,500,4,28880€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO T-JET 180 695 RIVALE
+2017,mécanique,BLANC,Essence,32 317 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106030371.html,ABARTH,500,4,19830€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 160 595 TURISMO
+2019,mécanique,NOIR,Essence,38 361 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106018942.html,ABARTH,500,4,22470€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO 16V T-JET 145 595C
+2018,automatique,GRIS RECORD,Essence,43 732 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105877126.html,ABARTH,500,2,20750€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO 16V T-JET 145 595C MSQ
+2018,automatique,BLANC,Essence,12 402 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106072868.html,ABARTH,124,2,33340€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 BVA
+2015,automatique,GRIS RECORD,Essence,29 120 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105550361.html,ABARTH,500,4,17740€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO 16V T-JET 160 TURISMO MSQ
+2018,mécanique,BLANCHE,Essence,52 274 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105902265.html,ABARTH,500,4,20050€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2019,mécanique,Gris Pista,Essence,22 560 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106106492.html,ABARTH,500,3,22780€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2020,automatique,GRIS CORRIS,Diesel,56 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105877184.html,JAGUAR,E-PACE,9 CV,56050€,JAGUAR E-PACE,2.0 180CH R-DYNAMIC CHEQUERED AWD BVA9 FLAG
+2018,automatique,noir,Diesel,67 105 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106029831.html,JAGUAR,F-PACE,5,39220€,JAGUAR F-PACE,2.0 D 180 R-SPORT 4X4 BVA8
+2020,automatique,Noir Santorini,Diesel,12 000 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104054435.html,JAGUAR,F-PACE,5,59880€,JAGUAR F-PACE,2.0 D 180 4X4 BLACK LIMITED BVA
+2017,mécanique,noir,Diesel,127 965 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105699340.html,JAGUAR,XE,5,21920€,JAGUAR XE,2.0D 180 9CV BUSINESS
+2020,mécanique,Gris Foncé Métal,Diesel,31 180 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105977213.html,JAGUAR,E-PACE,5,49720€,JAGUAR E-PACE,D150 AWD S
+2001,automatique,GRIS,Essence,156 862 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106062610.html,JAGUAR,XJ8,4,8540€,JAGUAR XJ8,3.2 PACK SPORT BVA
+2020,mécanique,Gris mat Asfalto,Essence,3 660 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106036586.html,ABARTH,500,4,35360€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2019,mécanique,BLANCHE,Essence,12 274 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105897301.html,ABARTH,500,4,23090€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 160 595C PISTA
+2016,automatique,noir metal,Essence,45 220 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101676604.html,ABARTH,500,3,17830€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 160 TURISMO MSQ
+2017,mécanique,gris,Essence,55 180 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105982470.html,ABARTH,500,4,19820€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 160 595 TURISMO
+2019,automatique,bleu metal,Essence,33 900 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101680567.html,ABARTH,500,2,23710€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO T-JET 160 595C PISTA MSQ
+2020,mécanique,BLEU/NOIR,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105841840.html,ABARTH,500,4,34100€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2011,automatique,rouge metal,Essence,35 640 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101689025.html,ABARTH,500,3,37800€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 TRIBUTO FERRARI
+2016,automatique,GRIS TROFEO META,Essence,70 150 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105877123.html,ABARTH,500,2,17790€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO 16V T-JET 160 TURISMO MSQ
+2019,mécanique,BLEU-GRIS RIVA,Essence,11 790 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105683060.html,ABARTH,500,4,29410€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO T-JET 180 695 RIVALE
+2013,mécanique,noir metal,Essence,93 902 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101658121.html,ABARTH,500,3,13900€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 160 COMPETIZIONE BVM
+2019,automatique,GRIS ROUGE,Essence,112 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105889512.html,ABARTH,124,2,43560€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 BVA
+2016,automatique,BLANC,Essence,98 216 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106064705.html,JAGUAR,F-TYPE,3,52870€,JAGUAR F-TYPE COUPE,COUPE 3.0 V6 AUTO
+2020,mécanique,GRIS ASFALTO,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105876768.html,ABARTH,500,4,28740€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 PISTA
+2020,automatique,NOIR SANTORINI,Diesel,5 600 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105920046.html,JAGUAR,E-PACE,5,61480€,JAGUAR E-PACE,D180 AWD R-DYNAMIC S BVA
+2019,automatique,argent metal,Essence,17 250 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101679225.html,ABARTH,500,2,32080€,ABARTH 500 C (2E GENERATION),II (2) II C 1.4 TURBO T-JET 180 695 RIVALE MSQ
+2021,automatique,blanc,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105569629.html,JAGUAR,F-PACE,Européen,49020€,JAGUAR F-PACE,BVA 2.0 250 15CV PURE 4X4 BVA
+2020,mécanique,Col. pastel Gris Pista,Essence,3 330 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104861057.html,ABARTH,500,4,20520€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2021,mécanique,Vert Foncé,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105795437.html,ABARTH,500,4,39880€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 595 ANNIVERSARIO
+2018,mécanique,rouge verni,Essence,30 717 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101677211.html,ABARTH,500,3,24210€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2018,mécanique,noir metal,Essence,42 783 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101624961.html,ABARTH,500,3,19530€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2019,mécanique,rouge,Essence,22 314 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105747268.html,ABARTH,500,4,25480€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 160 595C PISTA
+2018,mécanique,NOIR SCORPION,Essence,27 107 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106086428.html,ABARTH,500,4,19970€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2020,mécanique,GRIS TROFEO,Essence,4 375 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105898681.html,ABARTH,500,4,33620€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2018,automatique,GRIS RECORD,Essence,21 297 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105606371.html,ABARTH,500,4,22220€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO T-JET 160 595 PISTA MSQ
+2015,automatique,rouge,Essence,97 917 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105817608.html,ABARTH,500,4,15100€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO 16V T-JET 160 COMPETIZIONE BVM
+2020,automatique,Col. pastel extra Jaune Modena,Essence,7 224 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106126875.html,ABARTH,500,4,23500€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2017,automatique,AMMONITE GREY,Essence,46 371 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105443798.html,JAGUAR,F-PACE,5,61370€,JAGUAR F-PACE,3.0 V6 S/C 340 23CV R-SPORT 4X4 BVA8
+2019,automatique,gris metal,Essence,23 912 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101656101.html,ABARTH,500,3,19580€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 145 595 MSQ
+2020,automatique,Santorini Black,Diesel,5 800 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105628843.html,JAGUAR,XJ,5,92780€,JAGUAR XJ 2,II 3.0 DIESEL V6 XJ50
+2017,automatique,NOIR,Diesel,45 159 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106002923.html,JAGUAR,XF,5,30740€,JAGUAR XF 2,II 2.0D 180 PRESTIGE AUTO
+2018,automatique,blanc,Diesel,29 884 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105732801.html,JAGUAR,XF,5,43270€,JAGUAR XF 2,II 3.0D V6 300 PRESTIGE AUTO
+2017,mécanique,Jaune,Essence,24 286 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105977868.html,ABARTH,500,4,19960€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2017,automatique,GRIS F,Essence,60 681 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106000553.html,ABARTH,500,4,17840€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2020,mécanique,Gris Clair,Essence,2 649 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105820366.html,ABARTH,500,4,39250€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 595 ESSEESSE
+2011,automatique,rouge metal,Essence,27 500 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101680984.html,ABARTH,500,3,32980€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 180 695 TRIBUTO FERRARI BVA
+2020,automatique,blanc turini,Essence,2 085 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105294143.html,ABARTH,124,2,43300€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 TURISMO BVA
+2018,mécanique,jaune verni,Essence,6 820 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101421165.html,ABARTH,500,3,29140€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE
+2017,mécanique,gris foncé mat,Essence,4 790 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101644136.html,ABARTH,500,3,67350€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 190CH 695 BIPOSTO
+2020,automatique,Bleu Isola d'Elba 1974 / Noir Mat,Essence,125 Km,https://www.lacentrale.fr/auto-occasion-annonce-69103672366.html,ABARTH,124,2,41240€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 GT BVA
+2015,automatique,Gris,Essence,62 385 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105870169.html,ABARTH,500,4,14840€,ABARTH 500 C (2E GENERATION),C 1.4 T-JET 140 BVR
+2021,mécanique,noir scorpione,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106048566.html,ABARTH,500,4,26650€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO 16V T-JET 145 595C
+2016,automatique,noir metal,Essence,32 182 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101568385.html,ABARTH,500,3,18630€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 160 595 TURISMO MSQ
+1964,mécanique,BLANC,Essence,57 456 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105819269.html,ABARTH,500,2,30660€,ABARTH 500,1000CH TC CORSA
+2020,automatique,VERTE,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105293028.html,ABARTH,500,4,28210€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO 16V T-JET 165 595 PISTA BVA
+2020,mécanique,Gris Record,Essence,119 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105843802.html,ABARTH,500,4,27220€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2018,automatique,blanc metal,Diesel,40 940 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101691210.html,JAGUAR,F-PACE,5,54390€,JAGUAR F-PACE,V6 3.0 D 300 PORTFOLIO 4X4 BVA8
+2020,automatique,GRIS CORRIS,Diesel,15 470 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104875051.html,JAGUAR,XE,5,45100€,JAGUAR XE,2.0D 180 10CV R-SPORT BVA
+2020,automatique,Noir Santorini,Diesel,112 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104780040.html,JAGUAR,XF,5,54760€,JAGUAR XF 2 SPORTBRAKE,II SPORTBRAKE 2.0D 180 CHEQUERED FLAG 4WD AUTO
+2018,mécanique,gris anthracite metal,Essence,39 900 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101130674.html,ABARTH,500,3,17530€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA
+2020,automatique,Corris Grey,Electrique,6 250 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105893977.html,JAGUAR,I-PACE,5,97480€,JAGUAR I-PACE,EV400 AWD SE
+2017,automatique,gris foncé verni,Essence,18 700 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101133367.html,ABARTH,500,2,22550€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2016,automatique,ivoire verni,Essence,29 639 Km,https://www.lacentrale.fr/auto-occasion-annonce-66100957594.html,ABARTH,500,3,16570€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 160CH 595 TURISMO MSQ
+2016,mécanique,gris foncé metal,Essence,41 640 Km,https://www.lacentrale.fr/auto-occasion-annonce-66100869533.html,ABARTH,500,3,19800€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE
+2019,automatique,NOIR,Essence,20 048 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106037191.html,ABARTH,500,4,24770€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2018,mécanique,rouge verni,Essence,24 035 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101129823.html,ABARTH,500,3,24030€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2012,mécanique,blanc nacre,Essence,123 000 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101116895.html,ABARTH,500,2,14630€,ABARTH 500 C (2E GENERATION),II C 1.4 T-JET 135
+2014,automatique,noir metal,Essence,112 000 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101134818.html,ABARTH,500,3,13440€,ABARTH 500 C (2E GENERATION),II C 1.4 T-JET 160 ESSE ESSE
+2013,mécanique,gris metal,Essence,102 900 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101129036.html,ABARTH,500,3,11440€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 160 TURISMO BVM
+2019,mécanique,blanc metal,Essence,12 054 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101107949.html,ABARTH,500,3,23970€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2016,mécanique,rouge metal,Essence,67 800 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101130598.html,ABARTH,500,3,13440€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 140 595 EDITION SPECIALE
+2017,automatique,GRIS RECORD,Essence,44 205 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105197281.html,ABARTH,500,4,19990€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 140 595 MSQ
+2013,mécanique,Gris,Essence,54 410 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105867247.html,ABARTH,500,4,13370€,ABARTH 500 C (2E GENERATION),C 1.4 T-JET 135
+2020,automatique,NOIR SANTORINI,Electrique,58 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105877189.html,JAGUAR,I-PACE,5,91870€,JAGUAR I-PACE,EV400 AWD SE
+2019,automatique,noir metal,Essence,47 522 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101682132.html,ABARTH,500,2,23540€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO T-JET 160 595C PISTA MSQ
+2018,automatique,POLAIRE WHITE,Diesel,45 076 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106043721.html,JAGUAR,XE,5,38820€,JAGUAR XE,2.0D 180 9CV R-SPORT AWD AUTO
+2020,automatique,Noir Santorini,Essence,105 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105058997.html,JAGUAR,XF,5,52390€,JAGUAR XF 2,II 2.0 250 15CV R-SPORT BUSINESS AUTO
+2019,automatique,NOIR SANTORINI,Diesel,15 912 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106104452.html,JAGUAR,XF,5,46680€,JAGUAR XF 2,II 2.0D 180 PRESTIGE LIMITED AUTO
+2017,mécanique,gris metal,Essence,14 145 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101664042.html,ABARTH,124,2,32760€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170
+2020,mécanique,268 Blanc,Essence,109 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105862734.html,ABARTH,500,3,28320€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2017,automatique,GRIS,Essence,9 291 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105707738.html,ABARTH,500,3,18790€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 140 595 MSQ
+2013,mécanique,blanc verni,Essence,6 632 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101684688.html,ABARTH,500,2,20040€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO 16V T-JET 160 TURISMO BVM
+2019,automatique,bleu metal,Essence,19 200 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101657285.html,ABARTH,500,3,20380€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 145 595 MSQ
+2015,mécanique,noir metal,Essence,70 397 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101120629.html,ABARTH,500,3,15470€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 160 COMPETIZIONE BVM
+2019,automatique,jaune verni,Essence,28 072 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101007042.html,ABARTH,500,2,24200€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2019,mécanique,noir metal,Essence,5 687 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101073150.html,ABARTH,500,2,22860€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 160 595C PISTA
+2013,automatique,noir metal,Essence,74 730 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101665923.html,ABARTH,500,3,14310€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 160 COMPETIZIONE MSQ
+2017,mécanique,gris foncé metal,Essence,34 854 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101059490.html,ABARTH,500,3,15540€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 140 595
+2017,mécanique,noir metal,Essence,71 280 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101118224.html,ABARTH,500,3,15320€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2013,mécanique,gris foncé metal,Essence,62 370 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101022083.html,ABARTH,500,2,13530€,ABARTH 500 C (2E GENERATION),C 1.4 T-JET 135
+2016,mécanique,rouge metal,Essence,56 175 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101128849.html,ABARTH,500,2,14440€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO 16V T-JET 140 595C
+2020,mécanique,gris clair mat,Essence,6 328 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101117536.html,ABARTH,500,3,19770€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2017,automatique,STORM GREY,Diesel,47 520 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105801959.html,JAGUAR,XF,5,34450€,JAGUAR XF 2,II 3.0D V6 300 PRESTIGE AUTO
+2015,automatique,BLEU,Essence,45 923 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105979991.html,JAGUAR,F-TYPE,3,54980€,JAGUAR F-TYPE COUPE,COUPE 3.0 V6 AUTO
+2015,automatique,GRIS,Essence,56 268 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105517703.html,ABARTH,500,3,15100€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 160 TURISMO MSQ
+2019,automatique,argent metal,Essence,19 080 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101652420.html,ABARTH,500,2,30720€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO T-JET 180 695 RIVALE MSQ
+2020,mécanique,695 Gris record,Essence,2 300 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105735816.html,ABARTH,500,4,25180€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO 16V T-JET 145 595C
+2019,mécanique,noir metal,Essence,8 550 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101621747.html,ABARTH,500,3,27240€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE
+2018,mécanique,blanc metal,Essence,27 474 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101132216.html,ABARTH,500,3,17440€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2020,mécanique,Gris Record,Essence,1 725 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105980823.html,ABARTH,500,2,28620€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO 16V T-JET 165 595 TURISMO
+2020,automatique,Rouge Costa Brava,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105245832.html,ABARTH,124,2,42760€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 TURISMO BVA
+2020,mécanique,Col. métallisé Noir Scorpion,Essence,1 250 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106086526.html,ABARTH,500,4,33730€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2017,mécanique,BLEU,Essence,19 656 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104879723.html,ABARTH,500,6 mois,24730€,ABARTH 500,1.4 TURBO 16V T-JET 180 CH COMPETIZIONE
+2018,mécanique,NOIR SCORPION,Essence,61 566 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105909137.html,ABARTH,500,4,22980€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 160 595C PISTA
+2018,automatique,JAUNE,Essence,43 758 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105515053.html,ABARTH,500,4,21610€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595 MSQ
+2012,mécanique,blanc nacre,Essence,125 097 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101642177.html,ABARTH,500,3,10860€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 160 ESSE ESSE
+2020,automatique,gris,Diesel,11 011 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106019784.html,JAGUAR,XE,4,48270€,JAGUAR XE,(2) D180 BUSINESS S STANDARD AUTO
+2020,automatique,Noir Métal,Diesel,11 495 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105411498.html,JAGUAR,XE,5,50690€,JAGUAR XE,2.0D 180 LANDMARK AUTO
+2019,mécanique,rouge,Diesel,13 996 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105836038.html,JAGUAR,E-PACE,5,44870€,JAGUAR E-PACE,D150 R-DYNAMIC
+2018,automatique,Gris Foncé Métal,Diesel,78 660 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105976853.html,JAGUAR,F-PACE,5,47750€,JAGUAR F-PACE,V6 3.0 D 300 PORTFOLIO 4X4 BVA8
+2020,mécanique,Noir Santorini,Diesel,9 840 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105646616.html,JAGUAR,E-PACE,5,79330€,JAGUAR E-PACE,D180 10CV AWD R-DYNAMIC SE
+2019,automatique,bleu,Diesel,23 829 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105996941.html,JAGUAR,F-PACE,5,41980€,JAGUAR F-PACE,2.0 D 180 PRESTIGE 4X4 BVA8
+2021,mécanique,BLEU,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106078596.html,ABARTH,500,4,26080€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2014,mécanique,gris metal,Essence,118 080 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101680304.html,ABARTH,500,2,17200€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO 16V T-JET 160 TURISMO BVM
+2020,automatique,Gris métal Alpi Orientali 1974,Essence,1 240 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105991416.html,ABARTH,124,2,45860€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 GT BVA
+2020,mécanique,Rouge Abarth,Essence,3 210 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105979219.html,ABARTH,500,2,29930€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2012,automatique,BLANC,Essence,113 364 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104791641.html,ABARTH,500,4,12080€,ABARTH 500 C (2E GENERATION),C 1.4 T-JET 140 BVR
+2019,automatique,blanc,Essence,23 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104835506.html,ABARTH,500,4,29230€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2020,automatique,gris,Essence,11 826 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106036181.html,ABARTH,500,4,24550€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2019,mécanique,bleu,Essence,16 940 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105900105.html,ABARTH,500,2,22380€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO 16V T-JET 145 595C
+2020,mécanique,gris asfalto,Essence,114 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105843986.html,ABARTH,500,3,29060€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 PISTA
+2017,automatique,gris foncé metal,Essence,31 365 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101658107.html,ABARTH,500,2,24470€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2012,mécanique,GRIS C,Essence,149 500 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106106907.html,ABARTH,500,3,11480€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 135
+2016,automatique,rouge metal,Essence,41 273 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101691645.html,ABARTH,500,3,20460€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2020,mécanique,bleu marine metal,Essence,18 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101691182.html,ABARTH,500,3,35480€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 695 RIVALE
+2020,automatique,EIGER GREY,Essence,108 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104987495.html,JAGUAR,F-TYPE,2,91690€,JAGUAR F-TYPE COUPE,(2) COUPE 2.0 300 AUTO R-DYNAMIC
+2017,automatique,noir,Diesel,18 824 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105974828.html,JAGUAR,XE,5,28330€,JAGUAR XE,2.0D 180 R-SPORT BVA
+2019,mécanique,jaune verni,Essence,4 173 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101531944.html,ABARTH,500,2,21290€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 160 595C PISTA
+2020,automatique,gris carpathian,Diesel,55 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105192099.html,JAGUAR,XF,5,58640€,JAGUAR XF 2,II 2.0D 180 R-SPORT BUSINESS AWD AUTO
+2016,automatique,noir metal,Diesel,47 740 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101559345.html,JAGUAR,XF,4,36580€,JAGUAR XF 2,II 2.0D 180 9CV PRESTIGE AUTO
+2020,automatique,Blanc,Diesel,555 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105920014.html,JAGUAR,F-PACE,5,72950€,JAGUAR F-PACE,2.0 D 180 10CV R-SPORT 4X4 BVA8
+2010,automatique,NOIR,Essence,90 289 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105533107.html,JAGUAR,XK,3,41050€,JAGUAR XK COUPE,(2) COUPE R 5.0 V8 510 SURALIMENTE BVA6
+2018,mécanique,Noir Scorpione,Essence,13 911 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105979217.html,ABARTH,500,3,19920€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA
+2017,automatique,rouge metal,Essence,67 025 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101624383.html,ABARTH,500,3,18110€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 140 595 MSQ
+2020,automatique,163 BLANC TURINI,Essence,116 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105843988.html,ABARTH,124,2,42900€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 TURISMO BVA
+2019,automatique,GRIS,Essence,926 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105807632.html,ABARTH,124,2,37510€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 GT BVA
+2019,mécanique,gris,Essence,15 080 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105471196.html,ABARTH,500,4,22600€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 160 595C PISTA
+2019,mécanique,( 676 ) gris campovolo,Essence,1 895 Km,https://www.lacentrale.fr/auto-occasion-annonce-69103637426.html,ABARTH,500,4,29100€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE
+1962,mécanique,blanc verni,Essence,80 040 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101642014.html,ABARTH,SCORPION,2,57410€,ABARTH SCORPION,E
+2018,mécanique,bleu,Essence,89 134 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106020460.html,ABARTH,500,4,17490€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2020,mécanique,gris,Essence,1 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106009023.html,ABARTH,500,4,25190€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2018,automatique,gris,Diesel,8 735 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105215841.html,JAGUAR,XF,5,70050€,JAGUAR XF 2 SPORTBRAKE,II (2) SPORTBRAKE 2.0D 240 R-SPORT AWD BVA
+2017,automatique,DARK SAPPHIRE,Diesel,69 575 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105443985.html,JAGUAR,F-PACE,5,53840€,JAGUAR F-PACE,V6 3.0 D 300 R-SPORT 4X4 BVA8
+2020,automatique,INDUS SILVER,Diesel,53 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104096756.html,JAGUAR,F-PACE,5,62890€,JAGUAR F-PACE,2.0 D 180 4X4 BLACK LIMITED BVA
+2020,automatique,gris anthracite metal,Electrique,76 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101614118.html,JAGUAR,I-PACE,5,96120€,JAGUAR I-PACE,EV400 AWD SE
+2011,automatique,gris,Diesel,237 900 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106115650.html,JAGUAR,XF,5,13020€,JAGUAR XF,3.0 V6 D 241 LUXE PREMIUM
+2001,automatique,gris clair metal,Essence,125 328 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101657207.html,JAGUAR,XK8,2,14590€,JAGUAR XK8 COUPE,COUPE 4.0 BVA
+2016,automatique,gris foncé metal,Essence,66 780 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101598555.html,JAGUAR,XF,4,31740€,JAGUAR XF 2,II 3.0 V6 340 23CV R-SPORT AUTO
+2019,mécanique,gris metal,Essence,6 505 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101559863.html,ABARTH,500,2,33340€,ABARTH 500 C (2E GENERATION),(2) 1.4 TURBO T-JET 180 695 RIVALE
+2020,mécanique,Vert Adrenaline,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106123666.html,ABARTH,500,4,31300€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2018,mécanique,Jaune,Essence,24 294 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105763390.html,ABARTH,500,4,20860€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO 16V T-JET 145 595C
+2018,automatique,noir verni,Essence,28 090 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101666511.html,ABARTH,500,3,23300€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2019,automatique,gris clair mat,Essence,214 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101424235.html,ABARTH,124,2,44920€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 BVA
+2018,automatique,noir,Essence,11 339 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105081278.html,ABARTH,500,2,24740€,ABARTH 500,C 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2016,mécanique,blanc metal,Essence,19 690 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101578819.html,ABARTH,500,3,14850€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 140 595
+2016,mécanique,BLANC,Essence,67 203 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105754736.html,ABARTH,500,4,14800€,ABARTH 500 C (2E GENERATION),II C 1.4 T-JET 135
+2016,automatique,rouge nacre,Essence,47 232 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101653403.html,ABARTH,500,3,19550€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 160 TURISMO MSQ
+2020,automatique,ROUGE COSTA BRAVA,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105910226.html,ABARTH,124,2,49180€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 TURISMO BVA
+2020,automatique,Gris Record,Essence,13 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105775474.html,ABARTH,500,4,37480€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2020,automatique,GRIS CORRIS,Diesel,56 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106079729.html,JAGUAR,E-PACE,5,61650€,JAGUAR E-PACE,D150 AWD R-DYNAMIC SE BVA
+2017,automatique,ITALIAN RACING RED,Diesel,50 285 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106012279.html,JAGUAR,XE,5,32650€,JAGUAR XE,2.0D 180 9CV PORTFOLIO AUTO
+2018,automatique,noir metal,Diesel,143 024 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101686488.html,JAGUAR,XF,4,23500€,JAGUAR XF 2,II 2.0D 180 PRESTIGE AUTO
+1994,automatique,bordeaux metal,Essence,152 866 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101654074.html,JAGUAR,XJS,2,31590€,JAGUAR XJS COUPE,COUPE 4.0 BVA
+2019,automatique,noir metal,Diesel,22 320 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101685261.html,JAGUAR,XJ,4,65700€,JAGUAR XJ 2,II 3.0 DIESEL LUXE PREMIUM
+2010,automatique,bleu metal,Essence,52 034 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101689237.html,JAGUAR,XKR,2,53900€,JAGUAR XKR CABRIOLET,CABRIOLET 4.2 V8 SURALIMENTE BVA6
+1995,automatique,gris foncé metal,Essence,121 000 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101685363.html,JAGUAR,XJ12,4,9660€,JAGUAR XJ12 (2E GENERATION),5.3 BVA
+1997,automatique,bleu metal,Essence,113 750 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101487946.html,JAGUAR,XJ6,4,9000€,JAGUAR XJ6 (2E GENERATION),4.0 S BVA
+2012,automatique,gris foncé metal,Diesel,205 193 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101585706.html,JAGUAR,XF,4,15240€,JAGUAR XF,(2) 3.0 V6 D S 275 EXTREME
+2020,mécanique,gris clair mat,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101424182.html,ABARTH,500,2,29820€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO 16V T-JET 165 595 TURISMO
+2021,mécanique,gris,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106048565.html,ABARTH,500,4,39180€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 595 ESSEESSE
+2017,automatique,Noir,Essence,32 651 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105538177.html,ABARTH,500,4,18720€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2019,mécanique,gris,Essence,19 753 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106065882.html,ABARTH,500,4,29750€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 695 RIVALE
+2020,automatique,Jaune Modena,Essence,2 460 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105845654.html,ABARTH,500,4,34680€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2017,mécanique,blanc,Essence,45 635 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104816661.html,ABARTH,500,4,17970€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2016,mécanique,GRIS,Essence,31 992 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104165571.html,ABARTH,500,2,22190€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO 16V T-JET 160 COMPETIZIONE BVM
+2020,automatique,jaune,Essence,30 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105731284.html,ABARTH,500,4,37830€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2017,mécanique,Electroclash Grey,Essence,46 819 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106047875.html,ABARTH,500,4,16980€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+1993,automatique,noir verni,Essence,120 510 Km,https://www.lacentrale.fr/auto-occasion-annonce-66100901450.html,JAGUAR,XJS-C,2,33930€,JAGUAR XJS-C (ANCIENNE),CABRIOLET 5.3 BVA
+2019,automatique,blanc nacre,Essence,9 990 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101680397.html,ABARTH,500,3,21070€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2020,mécanique,BLEU PODIO,Essence,2 650 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105517428.html,ABARTH,500,4,31780€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE
+2018,mécanique,gris anthracite metal,Essence,29 475 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101664577.html,ABARTH,500,3,21120€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA
+2017,automatique,gris foncé verni,Diesel,87 780 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101670720.html,JAGUAR,XF,4,25860€,JAGUAR XF 2,II 2.0D 180 9CV PRESTIGE AUTO
+2018,automatique,gris clair metal,Essence,16 680 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101691309.html,JAGUAR,F-TYPE,3,76750€,JAGUAR F-TYPE COUPE,(2) COUPE 3.0 V6 340 R-DYNAMIC AUTO
+2020,automatique,NOIR METAL,Diesel,11 800 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105969718.html,JAGUAR,F-PACE,5,63600€,JAGUAR F-PACE,2.0 D 180 10CV PRESTIGE 4X4 BVA8
+2018,automatique,blanc,Diesel,13 090 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106108771.html,JAGUAR,XF,5,41690€,JAGUAR XF 2,II 2.0D 180 R-SPORT AWD AUTO
+2019,automatique,gris anthracite metal,Diesel,130 077 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101683422.html,JAGUAR,F-PACE,5,33570€,JAGUAR F-PACE,2.0 D 180 10CV PORTFOLIO BVA
+2015,automatique,bleu clair verni,Essence,34 434 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101668150.html,ABARTH,500,2,15490€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 160 595 TURISMO MSQ
+2020,mécanique,NOIRE,Essence,1 875 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105790867.html,ABARTH,500,4,26610€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO 16V T-JET 145 595C
+2020,automatique,gris,Essence,3 815 Km,https://www.lacentrale.fr/auto-occasion-annonce-69103833987.html,ABARTH,124,2,37590€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 TURISMO BVA
+2018,automatique,jaune metal,Essence,25 760 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101672355.html,ABARTH,500,2,25740€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2018,mécanique,gris,Essence,11 275 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105374605.html,ABARTH,500,12 mois,31230€,ABARTH 500,C 1.4 TURBO 16V T-JET 180 BVM5 RIVALE
+2020,automatique,rouge,Essence,6 250 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105693427.html,ABARTH,500,4,34360€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2019,mécanique,gris anthracite metal,Essence,17 220 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101683874.html,ABARTH,500,2,27040€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2020,mécanique,Vert monza,Essence,2 140 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105722683.html,ABARTH,500,4,38020€,ABARTH 500,1.4 T-JET 180 CH 70IEME ANNIVERSAIRE BVA
+2011,mécanique,rouge verni,Essence,112 700 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101674878.html,ABARTH,500,3,12530€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 135
+2020,mécanique,rouge metal,Essence,23 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101576849.html,ABARTH,500,3,27920€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE
+2019,automatique,ROUGE,Essence,12 614 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105774166.html,ABARTH,500,3,22360€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA MSQ
+2020,mécanique,GRIS ASFALTO,Essence,119 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105911758.html,ABARTH,500,4,27350€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 PISTA
+2020,mécanique,Vert,Essence,2 318 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105902584.html,ABARTH,500,3,32920€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2020,automatique,gris foncé metal,Diesel,10 980 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101631962.html,JAGUAR,E-PACE,5,58430€,JAGUAR E-PACE,D150 AWD S BVA
+1971,automatique,gris clair,Essence,1 150 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105055290.html,JAGUAR,TYPE,4,80380€,JAGUAR TYPE E COUPE,COUPE 4.2 SERIE 2
+2019,automatique,Bleu podio,Essence,28 501 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105973283.html,ABARTH,500,4,18220€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595 MSQ
+2014,automatique,Noir,Diesel,61 139 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105884573.html,JAGUAR,XF,5,20720€,JAGUAR XF,(2) 2.2 D 163 CLASSIC
+2017,mécanique,gris metal,Essence,16 610 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101663584.html,JAGUAR,F-TYPE,3,65330€,JAGUAR F-TYPE COUPE,(2) COUPE 3.0 V6 340
+2021,automatique,ULTIMATE BLACK,Diesel,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104756405.html,JAGUAR,XE,5,61490€,JAGUAR XE,(2) D180 SE R-DYNAMIC AUTO
+2014,automatique,clair metal,Essence,26 220 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101424746.html,ABARTH,500,2,36460€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO T-JET 180 595 EDIZIONE MASERATI
+2014,automatique,bordeaux,Essence,13 250 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104526879.html,ABARTH,500,4,27450€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO 16V T-JET 160 COMPETIZIONE MSQ
+2019,automatique,noir metal,Essence,4 482 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101613249.html,ABARTH,500,2,26490€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2019,automatique,blanc verni,Essence,3 472 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101653917.html,ABARTH,124,2,38060€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 TURISMO BVA
+2012,mécanique,JAUNE,Essence,8 610 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105860774.html,ABARTH,500,4,42920€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 180 695 TRIBUTO FERRARI
+2021,mécanique,BLANC,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106078595.html,ABARTH,500,4,20960€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2020,mécanique,Noir Scorpione,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105843991.html,ABARTH,500,2,25570€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO 16V T-JET 145 595C
+2020,automatique,BLEU LAGON,Essence,5 341 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105980901.html,ABARTH,500,3,31590€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 695 RIVALE MSQ
+2016,automatique,GRIS,Essence,58 820 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105216985.html,ABARTH,500,3,15380€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 140 MSQ
+2021,mécanique,Noir Scorpion,Essence,2 380 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106029316.html,ABARTH,500,4,31050€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2016,mécanique,noir metal,Essence,52 211 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101593224.html,ABARTH,500,2,13060€,ABARTH 500 C (2E GENERATION),C 1.4 TURBO 16V T-JET 140 595C
+2020,mécanique,Noir Scorpione,Essence,2 220 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105815087.html,ABARTH,500,3,32170€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2020,automatique,Noir Métal,Electrique,1 755 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105952727.html,JAGUAR,I-PACE,5,93480€,JAGUAR I-PACE,EV400 AWD SE
+2019,automatique,NOIR Santorini,Diesel,70 242 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105784843.html,JAGUAR,F-PACE,5,49210€,JAGUAR F-PACE,V6 3.0 D 300 R-SPORT 4X4 BVA8
+2017,automatique,GRIS FONCE,Diesel,74 135 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105364658.html,JAGUAR,F-PACE,5,41060€,JAGUAR F-PACE,2.0 D 180 R-SPORT 4X4 BVA8
+2020,automatique,SANTORINI BLACK,Electrique,4 840 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105524919.html,JAGUAR,I-PACE,5,102840€,JAGUAR I-PACE,EV400 AWD HSE
+2018,automatique,blanc verni,Essence,26 500 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101513043.html,JAGUAR,F-TYPE,3,61460€,JAGUAR F-TYPE COUPE,(2) COUPE 3.0 V6 340 R-DYNAMIC AUTO
+2020,automatique,Noir Métal,Electrique,6 960 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104425795.html,JAGUAR,I-PACE,5,88140€,JAGUAR I-PACE,EV400 AWD FIRST EDITION
+2019,mécanique,Vert,Essence,4 802 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105562901.html,ABARTH,500,4,19940€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2020,automatique,vert adrenaline,Essence,8 540 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105226300.html,ABARTH,500,4,35350€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2020,automatique,blanc metal,Essence,5 250 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101641352.html,ABARTH,124,2,35160€,ABARTH 124 (2E GENERATION) SPIDER,II 1.4 TURBO 170 TURISMO BVA
+2020,mécanique,Jaune,Essence,55 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105866535.html,ABARTH,500,4,29090€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2017,mécanique,blanc metal,Essence,23 520 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101662569.html,ABARTH,500,3,16780€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 160 595 TURISMO
+2019,automatique,Col. métallisé Noir Scorpion,Essence,14 227 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105919272.html,ABARTH,500,12 mois,22410€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2019,mécanique,Col. métallisé Bleu Podio,Essence,28 733 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105775069.html,ABARTH,500,4,22000€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO T-JET 160 595 PISTA
+2012,automatique,blanc metal,Essence,108 455 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101558616.html,ABARTH,500,3,12520€,ABARTH 500 C (2E GENERATION),C 1.4 T-JET 160 ESSE ESSE
+2019,mécanique,Col. pastel extra Blanc Gara (Racing),Essence,16 100 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106097961.html,ABARTH,500,4,21830€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA
+2020,mécanique,BLANC/NOIR,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105841812.html,ABARTH,500,4,30000€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2017,mécanique,bleu,Essence,53 628 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106014893.html,ABARTH,500,3,17080€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 140 595
+2019,automatique,Noir Métal,Diesel,10 961 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105952723.html,JAGUAR,XF,5,45080€,JAGUAR XF 2,II 2.0D 180 9CV PRESTIGE AUTO
+2020,automatique,Gris Foncé Métal,Diesel,9 450 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104961767.html,JAGUAR,XE,5,39880€,JAGUAR XE,2.0D 180 9CV PRESTIGE AUTO
+2017,automatique,noir metal,Diesel,27 823 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101658080.html,JAGUAR,F-PACE,5,52530€,JAGUAR F-PACE,V6 3.0 D 300 PORTFOLIO 4X4 BVA8
+2017,automatique,NOIR,Diesel,54 984 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105582304.html,JAGUAR,F-PACE,5,58750€,JAGUAR F-PACE,V6 3.0 D 300 S 4X4 BVA8
+2017,mécanique,gris foncé metal,Essence,39 648 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101637774.html,ABARTH,500,3,18030€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 160 595 TURISMO
+2017,automatique,BLEU,Diesel,81 114 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106127546.html,JAGUAR,XE,4,23290€,JAGUAR XE,2.0D E-PERFORMANCE 163 8CV PRESTIGE AUTO
+2020,mécanique,bleu,Essence,1 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105870703.html,ABARTH,500,4,27360€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2018,mécanique,gris verni,Essence,42 716 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101686116.html,ABARTH,500,3,23580€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 695 XSR YAMAHA
+2020,mécanique,gris foncé,Essence,15 768 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106081238.html,ABARTH,500,4,19420€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO 16V T-JET 145 595C
+2020,mécanique,VERT ADRENALINE,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105722669.html,ABARTH,500,4,27000€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 PISTA
+2021,automatique,GRIS MAT,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105813818.html,ABARTH,500,4,30980€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO T-JET 160 595 PISTA MSQ
+2020,mécanique,Gris,Essence,54 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105512789.html,ABARTH,500,4,32110€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO T-JET 180 695 RIVALE
+2019,mécanique,rouge,Essence,14 043 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105374601.html,ABARTH,500,4,24180€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO T-JET 160 595 PISTA
+2015,mécanique,gris foncé metal,Essence,141 680 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101681972.html,ABARTH,500,3,12190€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 160 595 TURISMO
+2017,mécanique,gris opaque (verni sans reflet),Essence,11 363 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101612917.html,ABARTH,500,3,22480€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO 16V T-JET 145 595
+2017,automatique,gris anthracite metal,Essence,42 435 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101534207.html,ABARTH,500,2,23950€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2016,mécanique,gris,Essence,5 693 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106117529.html,ABARTH,500,2,42060€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 190 695 BIPOSTO
+2018,automatique,Rouge Exotic,Essence,5 962 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106079863.html,ABARTH,500,4,22590€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2019,automatique,YULONG WHITE,Diesel,18 684 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105750551.html,JAGUAR,E-PACE,5,53890€,JAGUAR E-PACE,D240 AWD HSE BVA
+2019,automatique,noir,Electrique,17 546 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105988181.html,JAGUAR,I-PACE,5,94580€,JAGUAR I-PACE,EV400 AWD FIRST EDITION
+2020,automatique,GRIS CARPATHIAN,Diesel,1 110 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104706077.html,JAGUAR,XJ,5,87570€,JAGUAR XJ 2,II 3.0 DIESEL PORTFOLIO
+2015,automatique,blanc metal,Diesel,132 231 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101567707.html,JAGUAR,XF,5,19780€,JAGUAR XF SPORTBRAKE,(2) SPORTBRAKE 2.2 D 200 LUXE
+2020,automatique,BRITISH RACING GREEN,Essence,3 180 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105853029.html,JAGUAR,F-TYPE,2,74090€,JAGUAR F-TYPE COUPE,(2) COUPE 2.0 300 BVA8
+2018,automatique,jaune metal,Essence,32 500 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101128825.html,ABARTH,500,3,27250€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2018,automatique,noir metal,Essence,16 008 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101112037.html,ABARTH,500,3,19700€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595 MSQ
+2018,mécanique,blanc verni,Essence,16 875 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101116792.html,ABARTH,500,3,26120€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2012,automatique,gris clair verni,Essence,134 685 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101118974.html,ABARTH,500,2,10940€,ABARTH 500 C (2E GENERATION),II C 1.4 T-JET 140 BVR
+2016,automatique,gris,Essence,28 875 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105365954.html,ABARTH,500,2,16250€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO 16V T-JET 160 TURISMO MSQ
+2020,mécanique,Bleu / gris,Essence,12 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105775473.html,ABARTH,500,4,35940€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 695 RIVALE
+2020,automatique,BLANC,Diesel,30 407 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105998829.html,JAGUAR,XE,5,40280€,JAGUAR XE,2.0D 180 10CV R-SPORT BVA
+2018,automatique,gris foncé metal,Essence,3 064 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101594711.html,ABARTH,500,2,20980€,ABARTH 500 C (2E GENERATION),(2) C 1.4 TURBO T-JET 160 595C PISTA MSQ
+2019,mécanique,Col. pastel extra Rouge Abarth,Essence,9 401 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105136312.html,ABARTH,500,4,19010€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2020,mécanique,jaune modena,Essence,11 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105761452.html,ABARTH,500,4,31790€,ABARTH 500 C (2E GENERATION),II C 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2018,automatique,gris foncé metal,Essence,37 312 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101615250.html,ABARTH,500,3,21090€,ABARTH 500 (2E GENERATION),1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2021,mécanique,Blanc Gara,Essence,13 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106040620.html,ABARTH,500,4,45730€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 595 ANNIVERSARIO
+2020,mécanique,gris,Essence,1 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106009252.html,ABARTH,500,4,24740€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2018,automatique,bleu,Essence,8 925 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105658645.html,JAGUAR,F-TYPE,2,91610€,JAGUAR F-TYPE COUPE,(2) COUPE 3.0 V6 380 R-DYNAMIC AUTO
+2019,automatique,HALCYON GOLD,Essence,37 100 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106035561.html,JAGUAR,F-PACE,5,68790€,JAGUAR F-PACE,3.0 V6 S/C 380 27CV S 4X4 BVA8
+1969,mécanique,rouge verni,Essence,103 550 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101631444.html,JAGUAR,TYPE,2,92650€,JAGUAR TYPE E CABRIOLET,CABRIOLET
+2019,mécanique,gris foncé metal,Essence,23 100 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101131976.html,ABARTH,500,3,18060€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA
+2007,automatique,gris,Diesel,207 034 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105702958.html,JAGUAR,S-TYPE,5,12180€,JAGUAR S-TYPE 2,(2) 2.7 D EXECUTIVE BVA
+2017,mécanique,gris foncé mat,Essence,45 780 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101129586.html,ABARTH,500,3,18850€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2011,automatique,noir opaque (verni sans reflet),Essence,34 100 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101075386.html,ABARTH,500,3,27390€,ABARTH 500 (2E GENERATION),1.4 TURBO 180 695 TRIBUTO FERRARI
+2014,mécanique,noir metal,Essence,82 110 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101080204.html,ABARTH,500,3,13680€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 160 TURISMO BVM
+2016,automatique,gris anthracite metal,Essence,86 100 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101135420.html,ABARTH,500,3,15640€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 160CH 595 TURISMO MSQ
+2015,automatique,gris foncé verni,Essence,77 935 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101114172.html,ABARTH,500,3,12530€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 140 MSQ
+2018,automatique,noir metal,Essence,10 148 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101135307.html,ABARTH,500,3,24170€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2018,mécanique,blanc metal,Essence,34 880 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101136957.html,ABARTH,500,3,20600€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 165 595 TURISMO
+2019,automatique,noir metal,Essence,10 640 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101128623.html,ABARTH,500,2,22280€,ABARTH 500 C (2E GENERATION),II (2) C 1.4 TURBO T-JET 165 595 TURISMO MSQ
+2017,mécanique,blanc verni,Essence,49 200 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101117690.html,ABARTH,500,3,16200€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+1992,automatique,gris foncé metal,Essence,89 880 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101365476.html,JAGUAR,XJS,2,28240€,JAGUAR XJS CABRIOLET,CABRIOLET 5.3 V12 BVA
+2018,automatique,noir metal,Essence,43 870 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101129101.html,ABARTH,500,3,23520€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE MSQ
+2018,mécanique,blanc opaque (verni sans reflet),Essence,47 096 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101128963.html,ABARTH,500,3,19140€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 140 595
+2011,automatique,GRIS F,Diesel,119 999 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106086017.html,JAGUAR,XF,4,21240€,JAGUAR XF,3.0 V6 D 275 S LUXE PREMIUM
+2010,mécanique,blanc nacre,Essence,52 105 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101125180.html,ABARTH,500,3,14010€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 135
+2013,automatique,Gris Foncé Métal,Diesel,77 047 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105807601.html,JAGUAR,XJ,5,32810€,JAGUAR XJ 2,II 3.0 V6 D S LUXE PREMIUM
+2010,mécanique,blanc nacre,Essence,121 363 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101104818.html,ABARTH,GRANDE,3,11250€,ABARTH GRANDE PUNTO,1.4 TJET 155
+2015,mécanique,gris foncé metal,Essence,49 377 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101076477.html,ABARTH,500,3,15150€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 160 595 TURISMO
+2019,mécanique,bleu clair metal,Essence,23 180 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101111791.html,ABARTH,500,3,30370€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 180 695 RIVALE
+2017,automatique,gris foncé metal,Essence,22 470 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101110600.html,ABARTH,500,3,15620€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 140 595 MSQ
+2010,mécanique,gris metal,Essence,103 750 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101128867.html,ABARTH,500,3,12370€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 160 ESSE ESSE
+2017,mécanique,blanc metal,Essence,43 750 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101125024.html,ABARTH,500,3,22500€,ABARTH 500 (2E GENERATION),II 1.4 TURBO T-JET 180 595 COMPETIZIONE
+2014,automatique,rouge metal,Essence,66 600 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101087273.html,ABARTH,500,3,16090€,ABARTH 500 (2E GENERATION),1.4 TURBO 16V T-JET 160 TURISMO MSQ
+2019,mécanique,bleu metal,Essence,15 400 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101087755.html,ABARTH,500,3,18150€,ABARTH 500 (2E GENERATION),(2) 1.4 TURBO T-JET 160 595 PISTA
+2012,mécanique,blanc verni,Essence,134 620 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101123199.html,ABARTH,PUNTO,3,9540€,ABARTH PUNTO EVO,1.4 TURBO MULTIAIR 165
+2017,mécanique,noir metal,Essence,53 460 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101120639.html,ABARTH,500,3,15440€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2018,mécanique,gris foncé mat,Essence,458 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101135760.html,ABARTH,500,3,64310€,ABARTH 500 C (2E GENERATION),II 1.4 TURBO T-JET 190CH 695 BIPOSTO
+2015,mécanique,gris foncé metal,Essence,81 200 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101115649.html,ABARTH,500,3,13330€,ABARTH 500 (2E GENERATION),II 1.4 TURBO 16V T-JET 160 TURISMO BVM
+2019,automatique,bleu clair metal,Essence,26 786 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101117625.html,ABARTH,500,3,20060€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA MSQ
+2017,automatique,gris metal,Essence,38 280 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101135593.html,ABARTH,500,3,18480€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595 MSQ
+2009,automatique,gris foncé metal,Essence,94 375 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101678690.html,JAGUAR,XK,2,31480€,JAGUAR XK COUPE,COUPE 4.2 V8 416 R PORTFOLIO BVA
+2019,mécanique,gris foncé metal,Essence,20 000 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101132626.html,ABARTH,500,3,22480€,ABARTH 500 (2E GENERATION),II (2) 1.4 TURBO T-JET 160 595 PISTA
+2017,automatique,bleu,Diesel,31 500 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105798218.html,JAGUAR,F-PACE,5,37760€,JAGUAR F-PACE,2.0 D 180 PRESTIGE 4X4 BVA8
+2002,automatique,vert verni,Essence,220 388 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101678305.html,JAGUAR,S-TYPE,4,5340€,JAGUAR S-TYPE,3.0 V6 PACK BVA
+2017,mécanique,blanc nacre,Essence,34 194 Km,https://www.lacentrale.fr/auto-occasion-annonce-66101120591.html,ABARTH,500,3,18570€,ABARTH 500 C (2E GENERATION),II (2) 1.4 TURBO 16V T-JET 145 595
+2017,automatique,BLEU F,Diesel,88 473 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105972507.html,JAGUAR,XE,4,28630€,JAGUAR XE,2.0D 180 9CV R-SPORT AWD AUTO
+1960,mécanique,blanc verni,Essence,2 092 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101596729.html,JAGUAR,XK,2,101650€,JAGUAR XK,COUPE 150 3.4
+2021,automatique,Noir Métal,Diesel,11 600 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106040402.html,JAGUAR,XF,5,69580€,JAGUAR XF 2,II 2.0D 180 9CV PORTFOLIO AUTO
+2019,automatique,NOIR,Diesel,59 525 Km,https://www.lacentrale.fr/auto-occasion-annonce-69104625141.html,JAGUAR,XF,5,35860€,JAGUAR XF 2,II 2.0D 180 PRESTIGE LIMITED AUTO
+2009,automatique,noir metal,Essence,153 501 Km,https://www.lacentrale.fr/auto-occasion-annonce-87101605808.html,JAGUAR,XF,4,22220€,JAGUAR XF,4.2 V8 415 SURAL SV8
+2018,automatique,RHODIUM SILVER,Essence,6 467 Km,https://www.lacentrale.fr/auto-occasion-annonce-69102700918.html,JAGUAR,F-PACE,5,69480€,JAGUAR F-PACE,3.0 V6 S/C 380 27CV S 4X4 BVA8
+2016,automatique,noir,Essence,79 134 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105975063.html,JAGUAR,F-TYPE,3,54390€,JAGUAR F-TYPE COUPE,COUPE 3.0 V6 S AWD AUTO
+2016,automatique,Noir Métal,Essence,8 984 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106015265.html,JAGUAR,F-TYPE,2,76030€,JAGUAR F-TYPE,CABRIOLET 5.0 V8 SURALIMENTE 495 S
+2017,automatique,AMMONITE GREY,Diesel,84 915 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105697605.html,JAGUAR,F-PACE,5,49470€,JAGUAR F-PACE,V6 3L D 300 4X4 PRESTIGE LIMITED BVA8
+2017,automatique,BLEU,Diesel,98 398 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105449300.html,JAGUAR,XF,4,31960€,JAGUAR XF 2,II 2.0D 180 9CV R-SPORT AUTO
+2020,mécanique,YULONG WHITE,Diesel,1 522 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105969717.html,JAGUAR,E-PACE,5,43540€,JAGUAR E-PACE,D150 S
+2018,automatique,bleu,Diesel,46 588 Km,https://www.lacentrale.fr/auto-occasion-annonce-69105067946.html,JAGUAR,F-PACE,5,56140€,JAGUAR F-PACE,V6 3.0 D 300 S 4X4 BVA8
+2021,automatique,SANTORINI BLACK,Essence,164 Km,https://www.lacentrale.fr/auto-occasion-annonce-69106128426.html,JAGUAR,XF,4,72920€,JAGUAR XF 2,II 2.0 300 AWD PORTFOLIO AUTO
