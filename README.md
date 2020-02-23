@@ -23,8 +23,25 @@ This project is for informational and educational purposes, do not use it for bu
 -  Docker
 	- [x] docker-compose.yml
 	- [x] Dockerfile
-	- [] run mongodb inside Docker : pas reussi
-	- [] run elasticsearch inside Docker : pas reussi
+	- [] run mongodb inside Docker :reussi
+	- [] run elasticsearch inside Docker : reussi * mais pas reussi à intégrer dans application
+
+
+## RUN APPLICATION 
+
+Clone it :
+
+```bash
+git clone https://github.com/Rochinel/DSIA_4201C_projet/
+```
+
+## From Docker
+
+```bash
+cd DSIA_4201C_projet
+docker-compose up -d
+``
+
 
 ## The project
 
@@ -34,4 +51,4 @@ Save data into MongoDB database.
 
 Create a Flask web-app to display the data.
 
-Dans la Flask web-app , search the data through Elasticsearch
+in the  Flask web-app , search the data through Elasticsearch
