@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="container">
+        <div style="width: 100%; margin: 10px auto 50px auto; text-align: justify">
+        	<a href="{{ url_for('index') }}"><h1 style="text-align: center;">Findcar</h1></a>
+
+            <h2>Find me a car</h2>
+            <p>
+            	Add cars that you like. <br><br>
+
+            	Then click on the button Find me a car.
+            </p>
+
+			<!--Search bar-->
+			<div class="container">
+			<div class="row">
+			<div class="col-lg-3"></div>
+			<div class="col-lg-6">
+			<form class="navbar-form" method="post" action="{{ url_for('search') }}" role="search">
+			<div class="input-group">
+
+
+
+			<input type="text" placeholder="Find the brand..." class="form-control">
+
+			<span class="input-group-btn">
+			<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+			Filter
+			<span class="caret"></span>
+			</button>
+			<ul class="dropdown-menu" role="menu">
+			<li><a href="#">AUDI</a></li>
+			<li><a href="#">ABARTH</a></li>
+			<li><a href="#">BMW</a></li>
+			</ul>
+			</span>
+
+
+			<span class="input-group-btn">
+			<button class="btn btn-primary" type="button"><span class="oi oi-star" title="star" aria-hidden="true"></span></button>
+			</span>
+			</div>
+			</form>
+			</div>
+
+			<div class="col-lg-3"></div>
+
+			</div>
+			</div>
+			<!--END Search bar-->
+
+			<form action = "/setcookie" method = "POST">
+         <p><h3>Enter userID</h3></p>
+         <p><input type = 'text' name = 'nm'/></p>
+         <p><input type = 'submit' value = 'Login'/></p>
+      </form>
+
+			<div class="row">
+			<button style=" margin: 50px auto 50px auto;" name="btn_recommender" class="btn btn-primary" type="submit">Find me a car</button>
+			</div>
+
+
+        </div>
+    </div>
+{% endblock %}
