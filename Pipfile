@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 "beautifulsoup4" = "==4.6.0"
-Flask-Cors = "==3.0.3"
+Flask-Cors = "==3.0.9"
 Flask-WTF = "==0.14.2"
 gunicorn = "==19.7.1"
 lxml = "==4.1.0"
